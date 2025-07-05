@@ -8,7 +8,7 @@ This repo is my transformation log — raw, honest, and focused.
 ## 🧠 Cybersecurity Journey Log
 
 ### 🔐 Phase 1: Foundations (Starting Now)
-- ⏳ Installing Kali Linux on VirtualBox
+- ⏳ [Installing Kali Linux on VirtualBox](https://github.com/HexIntuition/Kali-Setup)
 - 🔜 Learning Linux terminal & bash scripting
 - 🔜 Networking basics: TCP/IP, ports, DNS, HTTP
 - 🔜 TryHackMe: Pre-Security & Intro to Pentesting
